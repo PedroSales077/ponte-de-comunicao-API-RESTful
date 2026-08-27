@@ -1,6 +1,6 @@
 # 🚀 API Connect – Gerenciamento de Usuários (MVP)
 
-> **Experiência Prática II – Desenvolvimento Back-end**  
+> **Desenvolvimento Back-end**  
 > API RESTful desenvolvida em Node.js e Express para simular a camada back-end de uma startup de tecnologia, oferecendo gerenciamento de perfis de usuários com validações e padronização JSON.
 
 ---
